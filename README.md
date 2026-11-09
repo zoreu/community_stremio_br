@@ -1,2 +1,6 @@
 # community_stremio_br
 Addons do stremio da comunidade BR
+
+# pagina
+
+https://zoreu.github.io/community_stremio_br/
